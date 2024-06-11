@@ -1,1 +1,2 @@
-ini commitan pertama
+ini adalah readme file
+
